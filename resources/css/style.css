@@ -20,6 +20,14 @@ body {
     font-size: 21px;
     color:gray
 }
+
+/*FOOTER*/
+
+.footer--copyright {
+    text-align: right;
+    font-size:21px;
+    color:gray
+}
 /*LINKS*/
 
 .link--cta {
